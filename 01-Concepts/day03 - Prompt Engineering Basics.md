@@ -203,4 +203,4 @@ JSON:
 ---
 ## Связи
 [[day01 - Локальные LLM (ollama)]]
-[[day02 - Базовый вызов Ollama]]
+[[day02 - Ollama Python API]]
