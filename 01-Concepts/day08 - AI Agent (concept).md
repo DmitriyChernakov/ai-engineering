@@ -222,4 +222,4 @@ SYSTEM = """tools:
 [[day02 - Ollama Python API]]
 [[day03 - Prompt Engineering Basics]]
 [[day04 - Structured Output]]
-[[day05 - System prompts]]
+[[]]
